@@ -1,6 +1,5 @@
-<p align="center">
-        <img src="keda-ado.png" alt="keda-ado">
-</p>
+![keda-ado](https://user-images.githubusercontent.com/13451867/213790939-5ea90900-dc99-435e-ac97-6df516665294.png)
+
 
 # Introduction
 
