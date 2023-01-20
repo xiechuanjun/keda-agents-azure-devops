@@ -1,3 +1,5 @@
+![keda-ado](https://user-images.githubusercontent.com/13451867/213791002-fc46e5fa-3a79-4c5d-92a6-f55814f3bf90.png)
+
 # Utilizando KEDA para escalar agents no Azure Devops no Kubernetes
 
 ## English Version
