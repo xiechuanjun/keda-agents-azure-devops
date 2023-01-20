@@ -1,5 +1,8 @@
 # Utilizando KEDA para escalar agents no Azure Devops no Kubernetes
 
+## English Version
+https://github.com/seilorjunior/keda-agents-azure-devops/blob/master/keda-azure-devops-en-us.md
+
 ## Introdução
 
 Por padrão temos no Azure Devops a opção de escalar os agents por Azure Virtual machine scale sets [vm-scale-set](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/scale-set-agents?view=azure-devops), porém, temos a opção de utilizar o KEDA para escalar os agents.
